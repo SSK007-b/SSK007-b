@@ -58,8 +58,9 @@
 
 ---
 
-<h3 align="left">📩 Let's Connect!</h3>
-📩 **Email:** [swanandkulkarni0007@gmail.com](mailto:swanandkulkarni0007@gmail.com)  
-🔗 **GitHub:** [github.com/SSK007-b](https://github.com/SSK007-b)  
-🔗 **LinkedIn:** [linkedin.com/in/ssk007](https://linkedin.com/in/ssk007)  
+### 📩 Contact Me:
+- **Email:** [swanandkulkarni0007@gmail.com](mailto:swanandkulkarni0007@gmail.com)  
+- **GitHub:** [github.com/SSK007-b](https://github.com/SSK007-b)  
+- **LinkedIn:** [linkedin.com/in/ssk007](https://linkedin.com/in/ssk007)  
+
  
