@@ -38,11 +38,18 @@
 
 ---
 
-<h3 align="left">🚀 Featured Projects:</h3>
-- **[RAG-Based AI Chatbot](https://github.com/SSK007-b/RAG_Model)** – Built a **Retrieval-Augmented Generation (RAG) model** for contextual AI responses. 
-- **[AI-Powered SkinCare Assistant](https://github.com/SSK007-b/SkinDiseases_ChatBot)** – Web scraping tool for structured data extraction. 
-- **[Backend API with Node.js & Express](https://github.com/SSK007-b/School-ERP-Backend-System)** – A **RESTful API** with **JWT authentication & CRUD operations**.  
-- **[Automated Web Scraper](https://github.com/SSK007-b/Web-Scraping-Text-Insights)** – Web scraping tool for structured data extraction.  
+### 🚀 Featured Projects:
+- **[RAG-Based AI Chatbot](https://github.com/SSK007-b/RAG_Model)**  
+  🔹 Built a **Retrieval-Augmented Generation (RAG) model** for contextual AI responses.  
+
+- **[AI-Powered SkinCare Assistant](https://github.com/SSK007-b/SkinDiseases_ChatBot)**  
+  🔹 AI-powered chatbot for **skin disease detection & consultation** using NLP.  
+
+- **[Backend API with Node.js & Express](https://github.com/SSK007-b/School-ERP-Backend-System)**  
+  🔹 Developed a **RESTful API** with **JWT authentication & CRUD operations** for a school ERP system.  
+
+- **[Automated Web Scraper](https://github.com/SSK007-b/Web-Scraping-Text-Insights)**  
+  🔹 Web scraping tool for extracting structured data from online sources.    
 
 ---
 
