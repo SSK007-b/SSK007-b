@@ -40,16 +40,16 @@
 
 ### 🚀 Featured Projects:
 - **[RAG-Based AI Chatbot](https://github.com/SSK007-b/RAG_Model)**  
-  🔹 Built a **Retrieval-Augmented Generation (RAG) model** for contextual AI responses.  
+  🔹 An AI-driven document chatbot that allows users to upload documents and interact with them through a chat interface using contextual knowledge retrieval.
 
 - **[AI-Powered SkinCare Assistant](https://github.com/SSK007-b/SkinDiseases_ChatBot)**  
-  🔹 AI-powered chatbot for **skin disease detection & consultation** using NLP.  
+  🔹 A Chainlit-based chatbot that provides basic information about general skin diseases to help users understand symptoms and possible conditions.
 
 - **[Backend API with Node.js & Express](https://github.com/SSK007-b/School-ERP-Backend-System)**  
-  🔹 Developed a **RESTful API** with **JWT authentication & CRUD operations** for a school ERP system.  
+  🔹 A secure REST API for a School ERP System, enabling teachers to manage students & assignments while students can view & submit work. Implements JWT authentication, role-based access, and CRUD operations with MongoDB integration.  
 
 - **[Automated Web Scraper](https://github.com/SSK007-b/Web-Scraping-Text-Insights)**  
-  🔹 Web scraping tool for extracting structured data from online sources.    
+  🔹 A Python-based web scraping tool that extracts structured data from websites for business insights, research, and analytics.    
 
 ---
 
